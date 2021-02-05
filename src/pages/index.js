@@ -106,7 +106,7 @@ export default (() => {
 				place={"endOfHead"}
 				rawKey={"601d1a667c061256e941fff6"}
 			>
-				{"console.log(\"Test\")"}
+				{"alert(\"Работает\")"}
 			</script>
 			<link
 				href={"fonts.googleapis.com"}
