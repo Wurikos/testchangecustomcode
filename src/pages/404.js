@@ -38,7 +38,7 @@ export default (() => {
 		</Link>
 		<RawHtml>
 			<script
-				async={false}
+				async={true}
 				src={""}
 				type={"type"}
 				crossorigin={"crossorigin"}
