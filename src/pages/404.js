@@ -39,7 +39,7 @@ export default (() => {
 		<RawHtml>
 			<script
 				async={false}
-				src={"src"}
+				src={""}
 				type={"type"}
 				crossorigin={"crossorigin"}
 				integrity={"integrity"}
